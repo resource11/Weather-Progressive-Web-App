@@ -1,0 +1,9 @@
+{
+  "firebase": "weatherprogresvapp",
+  "public": "work",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
